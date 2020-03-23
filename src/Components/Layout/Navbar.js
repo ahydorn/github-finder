@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+//Navbar
 export class Navbar extends Component {
   static defaultProps = {
     title: "Github Finder",
